@@ -136,7 +136,7 @@ venv/Script/activate
 . venv/Script/activate
 ```
 
-> Si vous, à l'étape 2, vous avez eu besoin de créer l'environnement virtuel, vous allez devoir installer les packages nécessaires.
+> Si, à l'étape 2, vous avez eu besoin de créer l'environnement virtuel, vous allez devoir installer les packages nécessaires.
 >
 > ```bash
 > # Windows
