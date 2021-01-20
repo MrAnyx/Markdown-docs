@@ -35,10 +35,10 @@ python -m virtualenv venv
 
 ```bash
 # Windows
-venv/Script/activate
+venv/Scripts/activate
 
 # Linux
-. venv/Script/activate
+. venv/Scripts/activate
 ```
 
 A partir de ce moment, tout les packages seront dans l'environnement virtuel.
