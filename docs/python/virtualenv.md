@@ -96,10 +96,10 @@ Ce fichier va contenir l'ensemble des packages nécessaires pour ce projet ainsi
 
 ```bash
 # Windows
-venv/Script/activate
+venv/Scripts/activate
 
 # Linux
-. venv/Script/activate
+. venv/Scripts/activate
 ```
 
 3. Utilisez le projet normalement par la suite.
@@ -147,3 +147,9 @@ venv/Script/activate
 > ```
 
 Vous pourrez ensuite utiliser le projet normalement.
+
+## Quitter l'environnement virtuel
+Pour quitter l'environnement virtuel, executer la commande.
+```bash
+deactivate
+```
